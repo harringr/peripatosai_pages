@@ -3,7 +3,7 @@ layout: default
 title: PeripatosAI
 ---
 
-# Peripatos
+# PeripatosAI
 
 Holding page for **{{ site.title }}**.
 
